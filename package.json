@@ -17,11 +17,10 @@
     "vector"
   ],
   "dependencies": {
-    "minimist": "^1.2.0",
-    "multiline": "^1.0.2",
-    "queue-async": "^1.2.1",
+    "@mapbox/spritezero": "^8.0.0",
     "json-stable-stringify": "^1.0.1",
-    "@mapbox/spritezero": "^8.0.0"
+    "minimist": "^1.2.0",
+    "queue-async": "^1.2.1"
   },
   "devDependencies": {
     "eslint": "^4.0.0",
